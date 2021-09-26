@@ -1,0 +1,11 @@
+
+
+.doctors-info{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    
+}
+.doctor-single{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,60 @@
+
+.header-section{
+    background-color: #031C71; 
+}
+.header{
+    background-color: #031C71;
+    box-shadow: 10px 10px 10px #011042;
+    display: grid;
+grid-template-columns: 2fr 3fr;
+    /* list-style: 80px; */
+
+}
+ 
+.logo{
+    /* background-color:#031C71 ; */
+    color: #F2D554;
+}
+.navigation {
+    margin-top: 25px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+ padding: 15px 10px;
+    color:white;
+
+}
+
+
+
+/* slider section  */
+.slider-section{
+    display: grid;
+    grid-template-columns: 4fr 4fr;
+    padding-bottom: 100px;
+    width: 1000px;
+    margin: 0px auto;
+    padding-top: 100px;
+    
+}
+.header-text h5{
+    color: white;
+    font-size: 20px;
+}
+
+.header-text h2{
+    font-size: 40px;
+    margin-top: -20px;
+    color: #F2D554;
+}
+.header-text h1{
+    font-size: 54px;
+    margin-top: -31px;
+    color: white;
+
+}
+.image-section img{
+width: 450px;
+}

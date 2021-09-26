@@ -1,0 +1,40 @@
+
+.doctor-details{
+    background-color: #031C71;
+    box-shadow: 10px 10px 10px #011042;
+    margin: 15px;
+    padding-bottom: 15px;
+    color: white;
+    height: 550px;
+}
+.doctor-details img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    padding: 5px;
+
+}
+.doctor-details {
+font-size: 28px;
+    justify-content: center;
+}
+.doctors-details-info h3{
+    font-size: 28px;
+    justify-content: center;
+}
+
+.doctors-details-info{
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: normal;
+}
+.button-desing {
+    background-color: #F2D554;
+    padding: 10px 39px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #011042;
+    border: none;
+    box-shadow: 10px 10px 10px #011042;
+
+}
